@@ -11,9 +11,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-	<title>숙소 - 스투비플래너</title>
-	<link rel="icon" href="images/favicon.png">
-	<!-- jQuery -->
+  <title>숙소 - 스투비플래너</title>
+  <link rel="icon" href="images/favicon.png">
+  <!-- jQuery -->
   <script type="text/javascript" src="script/jquery-3.7.0.js"></script>
 	<!-- my -->
   <link rel="stylesheet" href="css/reset.css">
@@ -71,15 +71,15 @@
 	</script>
 </head>
 <body>
-	<header>
+  <header>
    <div class="head_box">
       <div class="head_content">
         <div class="head_title">
           <h1><a href="Main.jsp"><img src="images/stu_logo.png" alt=""></a></h1>
         </div>
         <%
-    			if (session.getAttribute("userEmail") == null) {
-    		%>
+    		if (session.getAttribute("userEmail") == null) {
+    	%>
         <div class="gnb_box">
           <div class="gnb_content">
             <ul>

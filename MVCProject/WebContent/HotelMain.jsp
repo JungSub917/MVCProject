@@ -28,7 +28,7 @@
 	<script type="text/javascript" src="script/header_footer.js"></script>
 </head>
 <body>
- 	<header>
+ <header>
     <div class="head_box">
       <div class="head_content">
         <div class="head_title">

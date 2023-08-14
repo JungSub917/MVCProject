@@ -22,15 +22,15 @@
   <script type="text/javascript" src="script/header_footer.js"></script>
 </head>
 <body>
-	<header>
+  <header>
    <div class="head_box">
       <div class="head_content">
         <div class="head_title">
           <h1><a href="Main.jsp"><img src="images/stu_logo.png" alt=""></a></h1>
         </div>
         <%
-    			if (session.getAttribute("userEmail") == null) {
-    		%>
+    	  if (session.getAttribute("userEmail") == null) {
+    	%>
         <div class="gnb_box">
           <div class="gnb_content">
             <ul>

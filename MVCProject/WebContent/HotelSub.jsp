@@ -36,7 +36,7 @@
   <script src="script/hotelsub.js"></script>
 </head>
 <body>
-	<header>
+  <header>
    <div class="head_box">
       <div class="head_content">
         <div class="head_title">

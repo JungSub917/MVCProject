@@ -4,7 +4,7 @@
 <%@ page import="java.util.*" %>
 
 <%
-  hrDTO hrdto = (hrDTO)request.getAttribute("hotelreviewdetaillist");
+  	hrDTO hrdto = (hrDTO)request.getAttribute("hotelreviewdetaillist");
 	int commnetCnt = (int)request.getAttribute("hrCommentCnt");
 	ArrayList<hrDTO> commentList = (ArrayList<hrDTO>)request.getAttribute("hrCommnetList");
 	int hno = Integer.parseInt(request.getParameter("hno"));
@@ -24,7 +24,7 @@
   <script type="text/javascript" src="script/header_footer.js"></script>
 </head>
 <body>
-	<header>
+  <header>
    <div class="head_box">
       <div class="head_content">
         <div class="head_title">

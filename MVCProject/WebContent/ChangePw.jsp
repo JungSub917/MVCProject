@@ -16,7 +16,7 @@
 </head>
 
 <body>
-	 <section>
+  <section>
     <div class="changepw_box">
       <div class="changepw_contain">
         <div class="changepw_content">

@@ -1,7 +1,7 @@
 # 스투비 플래너
 <br>
 
- <p align="center"><img src="" width="500px" height="400px"></p> 
+ <p align="center"><img src="https://github.com/JungSub917/MVCProject/blob/master/MVCProject/WebContent/images/README/MainPage.png" width="800px"></p> 
 <br>
 <br>
 
